@@ -2,7 +2,7 @@
 
 Jogo desenvolvido para mesa de LED 12x12
 
-Como funciona:
+## Como funciona:
 
 * Aparecerão dois padrões, você deve identificar qual deles era o padrão errado do caso anterior
 * O primeiro padrão que deve ser selecionado é um Retangulo
