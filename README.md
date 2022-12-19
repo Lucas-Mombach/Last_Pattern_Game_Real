@@ -1,4 +1,4 @@
-# Last_Pattern_Game_Real
+# Last Pattern Game Mesa Real
 
 Jogo desenvolvido para mesa de LED 12x12
 
